@@ -1,0 +1,694 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-09-21">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="tipo" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Jjafjjaf" label="Jjafjjaf">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="190.25.193.77" label="190.25.193.77">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Jaontiveros" label="Jaontiveros">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="83.33.214.222" label="83.33.214.222">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="88.5.216.156" label="88.5.216.156">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Roblespepe" label="Roblespepe">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="83.40.95.72" label="83.40.95.72">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="190.67.168.54" label="190.67.168.54">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="79.146.192.30" label="79.146.192.30">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="83.33.214.78" label="83.33.214.78">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="200.84.219.75" label="200.84.219.75">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Resped" label="Resped">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="189.141.207.188" label="189.141.207.188">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="190.152.62.12" label="190.152.62.12">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Srbanana" label="Srbanana">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="190.174.100.228" label="190.174.100.228">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="190.232.33.145" label="190.232.33.145">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Dove" label="Dove">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="76.30.112.229" label="76.30.112.229">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="MarcoAurelio" label="MarcoAurelio">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="83.37.204.115" label="83.37.204.115">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="FirmaBOT" label="FirmaBOT">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="83.165.88.198" label="83.165.88.198">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Diegusjaimes" label="Diegusjaimes">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="83.45.169.164" label="83.45.169.164">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="83.36.242.224" label="83.36.242.224">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="AVdiscuBOT" label="AVdiscuBOT">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="190.152.235.164" label="190.152.235.164">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Yodigo" label="Yodigo">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="201.252.146.154" label="201.252.146.154">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="NeVic" label="NeVic">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="77.211.79.210" label="77.211.79.210">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="190.176.239.253" label="190.176.239.253">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="88.26.144.57" label="88.26.144.57">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Javip68" label="Javip68">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="80.29.21.49" label="80.29.21.49">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="FariBOT" label="FariBOT">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="79.150.61.108" label="79.150.61.108">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Petronas" label="Petronas">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="190.225.150.86" label="190.225.150.86">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Jaluj" label="Jaluj">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="AldanaN" label="AldanaN">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="80.39.179.26" label="80.39.179.26">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="83.35.234.242" label="83.35.234.242">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="79.144.150.60" label="79.144.150.60">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Soulreaper" label="Soulreaper">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Yavidaxiu" label="Yavidaxiu">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Vitamine" label="Vitamine">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Cheveri" label="Cheveri">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Laura Fiorucci" label="Laura Fiorucci">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="79.151.209.95" label="79.151.209.95">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Maailma" label="Maailma">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="189.240.179.237" label="189.240.179.237">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="-Erick-" label="-Erick-">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="200.122.75.40" label="200.122.75.40">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Mansoncc" label="Mansoncc">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="190.28.75.11" label="190.28.75.11">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Rodtico21" label="Rodtico21">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="181.31.138.157" label="181.31.138.157">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="190.148.24.178" label="190.148.24.178">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Expósito" label="Expósito">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="178.139.126.11" label="178.139.126.11">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Jcfidy" label="Jcfidy">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="83.32.232.159" label="83.32.232.159">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="79.144.158.89" label="79.144.158.89">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Davius" label="Davius">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Caminoderoma" label="Caminoderoma">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="81.32.121.104" label="81.32.121.104">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="88.19.157.216" label="88.19.157.216">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Asqueladd" label="Asqueladd">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="79.146.216.146" label="79.146.216.146">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="186.13.5.70" label="186.13.5.70">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="187.193.47.182" label="187.193.47.182">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="83.47.74.246" label="83.47.74.246">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="81.36.211.48" label="81.36.211.48">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="190.239.191.45" label="190.239.191.45">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Asepsia" label="Asepsia">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Rievla" label="Rievla">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="200.83.236.128" label="200.83.236.128">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="AddRoundKey" label="AddRoundKey">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="PeriodiBOT" label="PeriodiBOT">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="83.48.9.74" label="83.48.9.74">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Geom" label="Geom">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="InternetArchiveBot" label="InternetArchiveBot">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="MetroBot" label="MetroBot">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="181.168.93.100" label="181.168.93.100">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Jarould" label="Jarould">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+      <node id="203.59.117.190" label="203.59.117.190">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Kirchhoff" label="Kirchhoff">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="2800:370:48:C0C0:78F0:9A9C:4F6:E6DA" label="2800:370:48:C0C0:78F0:9A9C:4F6:E6DA">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="190.148.50.81" label="190.148.50.81">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Arcthurus" label="Arcthurus">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="181.42.41.175" label="181.42.41.175">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="Ontzak" label="Ontzak">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Oscar ." label="Oscar .">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="2.139.168.224" label="2.139.168.224">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="A.piquerasm" label="A.piquerasm">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Imperio Español YT" label="Imperio Español YT">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="MiguelAngel fotografo" label="MiguelAngel fotografo">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Virum Mundi" label="Virum Mundi">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="136.186.163.47" label="136.186.163.47">
+        <attvalues>
+          <attvalue for="0" value="IP_Anonima" />
+        </attvalues>
+      </node>
+      <node id="~2025-39894-56" label="~2025-39894-56">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="Montgomery" label="Montgomery">
+        <attvalues>
+          <attvalue for="0" value="Usuario_Registrado" />
+        </attvalues>
+      </node>
+      <node id="CommonsDelinker" label="CommonsDelinker">
+        <attvalues>
+          <attvalue for="0" value="Bot" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="190.25.193.77" target="Jjafjjaf" id="0" weight="1" />
+      <edge source="Jaontiveros" target="190.25.193.77" id="1" weight="1" />
+      <edge source="Jaontiveros" target="83.33.214.222" id="2" weight="2" />
+      <edge source="Jaontiveros" target="Soulreaper" id="3" weight="1" />
+      <edge source="Jaontiveros" target="79.144.150.60" id="4" weight="1" />
+      <edge source="Jaontiveros" target="79.151.209.95" id="5" weight="1" />
+      <edge source="83.33.214.222" target="Jaontiveros" id="6" weight="1" />
+      <edge source="83.33.214.222" target="88.5.216.156" id="7" weight="1" />
+      <edge source="88.5.216.156" target="Jaontiveros" id="8" weight="1" />
+      <edge source="Roblespepe" target="Jaontiveros" id="9" weight="1" />
+      <edge source="Roblespepe" target="79.146.192.30" id="10" weight="1" />
+      <edge source="83.40.95.72" target="Roblespepe" id="11" weight="1" />
+      <edge source="190.67.168.54" target="83.40.95.72" id="12" weight="1" />
+      <edge source="79.146.192.30" target="190.67.168.54" id="13" weight="1" />
+      <edge source="83.33.214.78" target="Roblespepe" id="14" weight="1" />
+      <edge source="200.84.219.75" target="83.33.214.78" id="15" weight="1" />
+      <edge source="Resped" target="200.84.219.75" id="16" weight="1" />
+      <edge source="Resped" target="189.141.207.188" id="17" weight="1" />
+      <edge source="Resped" target="190.174.100.228" id="18" weight="1" />
+      <edge source="189.141.207.188" target="Resped" id="19" weight="1" />
+      <edge source="190.152.62.12" target="Resped" id="20" weight="1" />
+      <edge source="Srbanana" target="190.152.62.12" id="21" weight="1" />
+      <edge source="190.174.100.228" target="Srbanana" id="22" weight="1" />
+      <edge source="190.232.33.145" target="Resped" id="23" weight="1" />
+      <edge source="Dove" target="190.232.33.145" id="24" weight="1" />
+      <edge source="76.30.112.229" target="Dove" id="25" weight="1" />
+      <edge source="MarcoAurelio" target="76.30.112.229" id="26" weight="1" />
+      <edge source="83.37.204.115" target="MarcoAurelio" id="27" weight="1" />
+      <edge source="FirmaBOT" target="83.37.204.115" id="28" weight="1" />
+      <edge source="83.165.88.198" target="FirmaBOT" id="29" weight="1" />
+      <edge source="Diegusjaimes" target="83.165.88.198" id="30" weight="1" />
+      <edge source="Diegusjaimes" target="83.45.169.164" id="31" weight="1" />
+      <edge source="Diegusjaimes" target="83.36.242.224" id="32" weight="1" />
+      <edge source="Diegusjaimes" target="201.252.146.154" id="33" weight="1" />
+      <edge source="83.45.169.164" target="Diegusjaimes" id="34" weight="1" />
+      <edge source="83.36.242.224" target="Diegusjaimes" id="35" weight="1" />
+      <edge source="83.36.242.224" target="AVdiscuBOT" id="36" weight="1" />
+      <edge source="AVdiscuBOT" target="83.36.242.224" id="37" weight="1" />
+      <edge source="190.152.235.164" target="Diegusjaimes" id="38" weight="1" />
+      <edge source="Yodigo" target="190.152.235.164" id="39" weight="1" />
+      <edge source="Yodigo" target="Javip68" id="40" weight="2" />
+      <edge source="Yodigo" target="79.144.150.60" id="41" weight="1" />
+      <edge source="201.252.146.154" target="Yodigo" id="42" weight="1" />
+      <edge source="NeVic" target="Diegusjaimes" id="43" weight="1" />
+      <edge source="77.211.79.210" target="NeVic" id="44" weight="1" />
+      <edge source="190.176.239.253" target="77.211.79.210" id="45" weight="1" />
+      <edge source="88.26.144.57" target="190.176.239.253" id="46" weight="1" />
+      <edge source="Javip68" target="88.26.144.57" id="47" weight="1" />
+      <edge source="Javip68" target="Yodigo" id="48" weight="1" />
+      <edge source="80.29.21.49" target="Yodigo" id="49" weight="1" />
+      <edge source="FariBOT" target="80.29.21.49" id="50" weight="1" />
+      <edge source="79.150.61.108" target="FariBOT" id="51" weight="1" />
+      <edge source="79.150.61.108" target="190.225.150.86" id="52" weight="1" />
+      <edge source="Petronas" target="79.150.61.108" id="53" weight="2" />
+      <edge source="190.225.150.86" target="Petronas" id="54" weight="1" />
+      <edge source="Jaluj" target="Petronas" id="55" weight="1" />
+      <edge source="Jaluj" target="AldanaN" id="56" weight="1" />
+      <edge source="Jaluj" target="Yodigo" id="57" weight="1" />
+      <edge source="Jaluj" target="Yavidaxiu" id="58" weight="1" />
+      <edge source="Jaluj" target="Expósito" id="59" weight="1" />
+      <edge source="AldanaN" target="Jaluj" id="60" weight="1" />
+      <edge source="AldanaN" target="79.144.150.60" id="61" weight="3" />
+      <edge source="AldanaN" target="Yavidaxiu" id="62" weight="1" />
+      <edge source="AldanaN" target="Cheveri" id="63" weight="1" />
+      <edge source="80.39.179.26" target="Jaluj" id="64" weight="1" />
+      <edge source="83.35.234.242" target="80.39.179.26" id="65" weight="1" />
+      <edge source="79.144.150.60" target="83.35.234.242" id="66" weight="1" />
+      <edge source="79.144.150.60" target="Jaluj" id="67" weight="1" />
+      <edge source="79.144.150.60" target="Jaontiveros" id="68" weight="2" />
+      <edge source="79.144.150.60" target="Yavidaxiu" id="69" weight="2" />
+      <edge source="79.144.150.60" target="AldanaN" id="70" weight="2" />
+      <edge source="79.144.150.60" target="Vitamine" id="71" weight="1" />
+      <edge source="79.144.150.60" target="Cheveri" id="72" weight="1" />
+      <edge source="79.144.150.60" target="Laura Fiorucci" id="73" weight="1" />
+      <edge source="Soulreaper" target="79.144.150.60" id="74" weight="2" />
+      <edge source="Yavidaxiu" target="Soulreaper" id="75" weight="1" />
+      <edge source="Yavidaxiu" target="79.144.150.60" id="76" weight="2" />
+      <edge source="Yavidaxiu" target="79.151.209.95" id="77" weight="3" />
+      <edge source="Yavidaxiu" target="AldanaN" id="78" weight="1" />
+      <edge source="Vitamine" target="79.144.150.60" id="79" weight="1" />
+      <edge source="Cheveri" target="Yavidaxiu" id="80" weight="2" />
+      <edge source="Cheveri" target="79.151.209.95" id="81" weight="1" />
+      <edge source="Laura Fiorucci" target="79.144.150.60" id="82" weight="1" />
+      <edge source="79.151.209.95" target="AldanaN" id="83" weight="1" />
+      <edge source="79.151.209.95" target="Yavidaxiu" id="84" weight="1" />
+      <edge source="79.151.209.95" target="Maailma" id="85" weight="1" />
+      <edge source="79.151.209.95" target="Cheveri" id="86" weight="1" />
+      <edge source="79.151.209.95" target="Jaontiveros" id="87" weight="1" />
+      <edge source="Maailma" target="AldanaN" id="88" weight="1" />
+      <edge source="189.240.179.237" target="Jaluj" id="89" weight="1" />
+      <edge source="-Erick-" target="189.240.179.237" id="90" weight="1" />
+      <edge source="200.122.75.40" target="-Erick-" id="91" weight="1" />
+      <edge source="Mansoncc" target="200.122.75.40" id="92" weight="1" />
+      <edge source="Mansoncc" target="181.31.138.157" id="93" weight="1" />
+      <edge source="Mansoncc" target="186.13.5.70" id="94" weight="1" />
+      <edge source="190.28.75.11" target="Mansoncc" id="95" weight="1" />
+      <edge source="Rodtico21" target="190.28.75.11" id="96" weight="1" />
+      <edge source="Rodtico21" target="187.193.47.182" id="97" weight="1" />
+      <edge source="Rodtico21" target="Rievla" id="98" weight="1" />
+      <edge source="181.31.138.157" target="Rodtico21" id="99" weight="1" />
+      <edge source="190.148.24.178" target="Mansoncc" id="100" weight="1" />
+      <edge source="Expósito" target="190.148.24.178" id="101" weight="1" />
+      <edge source="178.139.126.11" target="Jaluj" id="102" weight="1" />
+      <edge source="Jcfidy" target="178.139.126.11" id="103" weight="1" />
+      <edge source="Jcfidy" target="83.32.232.159" id="104" weight="1" />
+      <edge source="Jcfidy" target="Caminoderoma" id="105" weight="3" />
+      <edge source="Jcfidy" target="81.32.121.104" id="106" weight="1" />
+      <edge source="Jcfidy" target="81.36.211.48" id="107" weight="2" />
+      <edge source="Jcfidy" target="190.239.191.45" id="108" weight="1" />
+      <edge source="Jcfidy" target="Asepsia" id="109" weight="1" />
+      <edge source="83.32.232.159" target="Jcfidy" id="110" weight="2" />
+      <edge source="79.144.158.89" target="83.32.232.159" id="111" weight="1" />
+      <edge source="Davius" target="79.144.158.89" id="112" weight="1" />
+      <edge source="Caminoderoma" target="Davius" id="113" weight="1" />
+      <edge source="Caminoderoma" target="Jcfidy" id="114" weight="2" />
+      <edge source="81.32.121.104" target="Jcfidy" id="115" weight="1" />
+      <edge source="88.19.157.216" target="Jcfidy" id="116" weight="1" />
+      <edge source="88.19.157.216" target="Asqueladd" id="117" weight="1" />
+      <edge source="Asqueladd" target="88.19.157.216" id="118" weight="1" />
+      <edge source="79.146.216.146" target="88.19.157.216" id="119" weight="1" />
+      <edge source="186.13.5.70" target="79.146.216.146" id="120" weight="1" />
+      <edge source="187.193.47.182" target="Mansoncc" id="121" weight="1" />
+      <edge source="83.47.74.246" target="Rodtico21" id="122" weight="1" />
+      <edge source="81.36.211.48" target="83.47.74.246" id="123" weight="1" />
+      <edge source="81.36.211.48" target="Jcfidy" id="124" weight="2" />
+      <edge source="190.239.191.45" target="81.36.211.48" id="125" weight="1" />
+      <edge source="Asepsia" target="Jcfidy" id="126" weight="1" />
+      <edge source="Rievla" target="Jcfidy" id="127" weight="1" />
+      <edge source="200.83.236.128" target="Rodtico21" id="128" weight="1" />
+      <edge source="AddRoundKey" target="200.83.236.128" id="129" weight="1" />
+      <edge source="PeriodiBOT" target="AddRoundKey" id="130" weight="1" />
+      <edge source="83.48.9.74" target="PeriodiBOT" id="131" weight="1" />
+      <edge source="Geom" target="83.48.9.74" id="132" weight="1" />
+      <edge source="Geom" target="203.59.117.190" id="133" weight="2" />
+      <edge source="Geom" target="2800:370:48:C0C0:78F0:9A9C:4F6:E6DA" id="134" weight="1" />
+      <edge source="InternetArchiveBot" target="Geom" id="135" weight="1" />
+      <edge source="InternetArchiveBot" target="MetroBot" id="136" weight="1" />
+      <edge source="MetroBot" target="InternetArchiveBot" id="137" weight="1" />
+      <edge source="181.168.93.100" target="InternetArchiveBot" id="138" weight="1" />
+      <edge source="Jarould" target="181.168.93.100" id="139" weight="1" />
+      <edge source="203.59.117.190" target="Jarould" id="140" weight="1" />
+      <edge source="203.59.117.190" target="Kirchhoff" id="141" weight="1" />
+      <edge source="Kirchhoff" target="Geom" id="142" weight="1" />
+      <edge source="2800:370:48:C0C0:78F0:9A9C:4F6:E6DA" target="Geom" id="143" weight="1" />
+      <edge source="190.148.50.81" target="Geom" id="144" weight="1" />
+      <edge source="Arcthurus" target="190.148.50.81" id="145" weight="1" />
+      <edge source="181.42.41.175" target="Arcthurus" id="146" weight="1" />
+      <edge source="Ontzak" target="181.42.41.175" id="147" weight="1" />
+      <edge source="Oscar ." target="Ontzak" id="148" weight="1" />
+      <edge source="2.139.168.224" target="Oscar ." id="149" weight="1" />
+      <edge source="A.piquerasm" target="2.139.168.224" id="150" weight="1" />
+      <edge source="Imperio Español YT" target="A.piquerasm" id="151" weight="1" />
+      <edge source="MiguelAngel fotografo" target="Imperio Español YT" id="152" weight="1" />
+      <edge source="Virum Mundi" target="MiguelAngel fotografo" id="153" weight="1" />
+      <edge source="Virum Mundi" target="136.186.163.47" id="154" weight="1" />
+      <edge source="136.186.163.47" target="Virum Mundi" id="155" weight="1" />
+      <edge source="~2025-39894-56" target="Virum Mundi" id="156" weight="1" />
+      <edge source="Montgomery" target="~2025-39894-56" id="157" weight="1" />
+      <edge source="CommonsDelinker" target="Montgomery" id="158" weight="1" />
+    </edges>
+  </graph>
+</gexf>
